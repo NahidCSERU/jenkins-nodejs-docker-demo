@@ -1,0 +1,13 @@
+{
+  "name": "jenkins-nodejs-docker-demo",
+  "version": "1.0.0",
+  "description": "Mini Node.js app for Jenkins + Docker pipeline",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'Build complete!'"
+  },
+  "author": "Nahid",
+  "license": "MIT",
+  "dependencies": {}
+}
